@@ -18,4 +18,4 @@ If you wish to modify the size, title or position of the window please refer to 
 If you want to use the window as it is currently setup you have to have your "main" inside `game.c` since the `src/loop.c` class is taking those methods directly.
 You are, however, free to modify they `src/loop.c` to your liking and therefore change how you use QuickWindow - C.
 
-If you wish to rename `game.c`, you have to go into `src/loop.c` and change the line </b>5. #include "../game.c"</b> to be identical to the new name and path.
+If you wish to rename `game.c`, you have to go into `src/loop.c` and change the line <b>5. #include "../game.c"</b> to be identical to the new name and path.
