@@ -13,4 +13,4 @@ int window_position_X = CW_USEDEFAULT; //704; // (Screen width / 2) - (Window wi
 int window_position_Y = CW_USEDEFAULT; //284; // (Screen height / 2) - (Window height / 2)
 
 // MUST CONTAIN A STRING VALUE!
-wchar_t window_title[] = L"QuickWindow - C - Untitled Project";
+wchar_t window_title[] = L"QuickWindow - C - version 1.1.0 - Untitled Project";
